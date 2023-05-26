@@ -1,9 +1,9 @@
 ### Hi, I'm Arthur and I'm learning how to program
 
-- 🌱 I’m currently learning information system at university
-- 📫 How to reach me: E-mail: arthurericocc@gmail.com -- Instagram: @arthur_erico_02
-- 😄 Pronouns: He/him ele/dele 
-- 🌍 Nationality: Brazilian
+I’m currently learning information system at university
+How to reach me: E-mail: arthurericocc@gmail.com -- Instagram: @arthur_erico_02
+Pronouns: He/him ele/dele 
+Nationality: Brazilian
 
 ##
 
